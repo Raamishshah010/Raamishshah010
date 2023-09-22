@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display:flex; gap:1rem> 
+<p align="left" > 
   <a href="https://developer.android.com" target="_blank"> <img src="https://e7.pngegg.com/pngimages/47/836/png-clipart-website-development-react-vue-js-angularjs-atoms-text-logo.png" alt="android" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
